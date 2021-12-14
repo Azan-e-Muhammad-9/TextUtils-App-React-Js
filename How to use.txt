@@ -1,0 +1,11 @@
+# TextUtils-App-React-Js
+
+1. To use this app make sure NodeJs is installed on you PC/Laptop.
+
+2. After Download and unzip the folder open the folder in Vs-Code and in Vs-Code terminal type the below command to install node_modules
+
+--> npm install
+
+3. After all node Modules install just type below command to run the App.
+
+--> npm run start
